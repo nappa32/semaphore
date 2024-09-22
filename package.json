@@ -34,7 +34,7 @@
   "dependencies": {
     "async": "latest",
     "bcrypt": "^0.8.0",
-    "body-parser": "1.4.3",
+    "body-parser": "1.20.3",
     "bower": "latest",
     "bugsnag": "latest",
     "connect-mongo": "latest",
